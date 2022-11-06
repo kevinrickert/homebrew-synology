@@ -1,4 +1,4 @@
-cask "synology-drive" do
+cask "synology-drive-latest" do
     version "3.1.0,12923"
     sha256 "b54f9c588457d1cd5d8b9eeace070a3111add4e81136e261fde9a6156217955f"
   
